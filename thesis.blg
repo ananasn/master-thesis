@@ -7,45 +7,45 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: thesis.bib
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--empty booktitle in Winnum
-You've used 3 entries,
+You've used 5 entries,
             3568 wiz_defined-function locations,
-            1050 strings with 9292 characters,
-and the built_in function-call counts, 858 in all, are:
-= -- 103
-> -- 10
-< -- 1
-+ -- 5
-- -- 2
-* -- 47
-:= -- 93
-add.period$ -- 9
-call.type$ -- 3
+            1067 strings with 9652 characters,
+and the built_in function-call counts, 1749 in all, are:
+= -- 214
+> -- 38
+< -- 4
++ -- 14
+- -- 9
+* -- 105
+:= -- 186
+add.period$ -- 19
+call.type$ -- 5
 change.case$ -- 1
 chr.to.int$ -- 0
-cite$ -- 4
-duplicate$ -- 44
-empty$ -- 101
-format.name$ -- 2
-if$ -- 221
+cite$ -- 6
+duplicate$ -- 87
+empty$ -- 183
+format.name$ -- 9
+if$ -- 458
 int.to.chr$ -- 0
-int.to.str$ -- 3
+int.to.str$ -- 5
 missing$ -- 0
-newline$ -- 32
-num.names$ -- 1
-pop$ -- 18
+newline$ -- 46
+num.names$ -- 3
+pop$ -- 30
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 34
+skip$ -- 72
 stack$ -- 0
-substring$ -- 32
-swap$ -- 27
-text.length$ -- 1
+substring$ -- 83
+swap$ -- 63
+text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 1
-while$ -- 4
-width$ -- 4
-write$ -- 54
+while$ -- 10
+width$ -- 6
+write$ -- 87
 (There was 1 warning)

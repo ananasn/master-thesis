@@ -34,4 +34,21 @@ Industrial communication networks - Fieldbus specifications - Part 1: Overview
   and guidance for the IEC 61158 and IEC 61784 series: Standard: International
   electrotechnical commission, 2014.
 
+\bibitem{Grinin201752}
+\selectlanguageifdefined{english}
+\BibEmph{Grinin~L.~E., Grinin~A.~L., Korotayev~A.} Forthcoming Kondratieff
+  wave, Cybernetic Revolution, and global ageing~// \BibEmph{Technological
+  Forecasting and Social Change}.
+\newblock 2017.
+\newblock Vol. 115.
+\newblock P.~52 -- 68.
+
+\bibitem{ZEZULKA20168}
+\selectlanguageifdefined{english}
+\BibEmph{Zezulka~F., Marcon~P., Vesely~I., Sajdl~O.} Industry 4.0 An
+  Introduction in the phenomenon~// \BibEmph{IFAC-PapersOnLine}.
+\newblock 2016.
+\newblock Vol.~49, no.~25.
+\newblock P.~8 -- 12.
+
 \end{thebibliography}
