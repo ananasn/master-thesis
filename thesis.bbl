@@ -57,26 +57,33 @@
 
 \bibitem{IEC61158}
 \selectlanguageifdefined{english}
-Industrial communication networks - Fieldbus specifications - Part 1: Overview
-  and guidance for the IEC 61158 and IEC 61784 series: Standard: International
-  electrotechnical commission, 2014.
+IEC 61158-1. Industrial communication networks - Fieldbus specifications - Part
+  1: Overview and guidance for the IEC 61158 and IEC 61784 series: Standard:
+  International electrotechnical commission, 2014.
 
 \bibitem{IEC61800}
 \selectlanguageifdefined{english}
-Adjustable speed electrical power drive systems - Part 7-1: Generic interface
-  and use of profiles for power drive systems - Interface definition: Standard:
-  International electrotechnical commission, 2015.
+IEC 61800-7-1:2015. Adjustable speed electrical power drive systems - Part 7-1:
+  Generic interface and use of profiles for power drive systems - Interface
+  definition: Standard: International electrotechnical commission, 2015.
 
 \bibitem{IEC61784}
 \selectlanguageifdefined{english}
-Industrial communication networks - Profiles - Part 1: Fieldbus profiles:
-  Standard: International electrotechnical commission, 2014.
+IEC 61784-1:2014. Industrial communication networks - Profiles - Part 1:
+  Fieldbus profiles: Standard: International electrotechnical commission, 2014.
+
+\bibitem{ISO15745}
+\selectlanguageifdefined{english}
+ISO 15745-4:2003. Industrial automation systems and integration -- Open systems
+  application integration framework -- Part 4: Reference description for
+  Ethernet-based control systems: Standard: International Organization for
+  Standardization, 2003.
 
 \bibitem{ISO11898}
 \selectlanguageifdefined{english}
-Road vehicles -- Controller area network (CAN) -- Part 1: Data link layer and
-  physical signalling: Standard: International Organization for
-  Standardization, 2015.
+ISO 11898-1:2015. Road vehicles -- Controller area network (CAN) -- Part 1:
+  Data link layer and physical signalling: Standard: International Organization
+  for Standardization, 2015.
 
 \bibitem{Modbus}
 \selectlanguageifdefined{english}
