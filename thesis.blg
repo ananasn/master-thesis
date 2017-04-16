@@ -9,7 +9,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--empty booktitle in Winnum
 You've used 11 entries,
             3568 wiz_defined-function locations,
-            1104 strings with 10689 characters,
+            1104 strings with 10690 characters,
 and the built_in function-call counts, 3316 in all, are:
 = -- 417
 > -- 70
