@@ -7,7 +7,7 @@
 \cyr\cyrd\cyra\cyrt\cyra\ %
 \cyro\cyrb\cyrr\cyra\cyrshch\cyre\cyrn\cyri\cyrya}: #1)}\else\fi
 \ifx\undefined\BibAnnote\long\def\BibAnnote#1{#1}\else\fi
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 \def\selectlanguageifdefined#1{
 \expandafter\ifx\csname date#1\endcsname\relax
 \else\language\csname l@#1\endcsname\fi}
@@ -16,6 +16,33 @@
 \selectlanguageifdefined{english}
 \href{http://www.winnum.ru}{Winnum Platform [Ёлектронный ресурс]}.
 \newblock \BibUrl{http://www.winnum.ru} \BibUrlDate{12.04.2017}.
+
+\bibitem{Grinin201752}
+\selectlanguageifdefined{english}
+\BibEmph{Grinin~L.~E., Grinin~A.~L., Korotayev~A.} Forthcoming Kondratieff
+  wave, Cybernetic Revolution, and global ageing~// \BibEmph{Technological
+  Forecasting and Social Change}.
+\newblock 2017.
+\newblock Vol. 115.
+\newblock P.~52 -- 68.
+
+\bibitem{ZEZULKA20168}
+\selectlanguageifdefined{english}
+\BibEmph{Zezulka~F., Marcon~P., Vesely~I., Sajdl~O.} Industry 4.0 An
+  Introduction in the phenomenon~// \BibEmph{IFAC-PapersOnLine}.
+\newblock 2016.
+\newblock Vol.~49, no.~25.
+\newblock P.~8 -- 12.
+
+\bibitem{MoralesVelazquez2010407}
+\selectlanguageifdefined{english}
+\BibEmph{Morales-Velazquez~L., de~Jesus Romero-Troncoso~R., Osornio-Rios~R.~A.
+  et~al.} Open-architecture system based on a reconfigurable hardware-software
+  multi-agent platform for CNC machines~// \BibEmph{Journal of Systems
+  Architecture}.
+\newblock 2010.
+\newblock Vol.~56, no.~9.
+\newblock P.~407 -- 418.
 
 \bibitem{Grigoriev2014517}
 \selectlanguageifdefined{english}
@@ -34,21 +61,34 @@ Industrial communication networks - Fieldbus specifications - Part 1: Overview
   and guidance for the IEC 61158 and IEC 61784 series: Standard: International
   electrotechnical commission, 2014.
 
-\bibitem{Grinin201752}
+\bibitem{IEC61800}
 \selectlanguageifdefined{english}
-\BibEmph{Grinin~L.~E., Grinin~A.~L., Korotayev~A.} Forthcoming Kondratieff
-  wave, Cybernetic Revolution, and global ageing~// \BibEmph{Technological
-  Forecasting and Social Change}.
-\newblock 2017.
-\newblock Vol. 115.
-\newblock P.~52 -- 68.
+Adjustable speed electrical power drive systems - Part 7-1: Generic interface
+  and use of profiles for power drive systems - Interface definition: Standard:
+  International electrotechnical commission, 2015.
 
-\bibitem{ZEZULKA20168}
+\bibitem{IEC61784}
 \selectlanguageifdefined{english}
-\BibEmph{Zezulka~F., Marcon~P., Vesely~I., Sajdl~O.} Industry 4.0 An
-  Introduction in the phenomenon~// \BibEmph{IFAC-PapersOnLine}.
-\newblock 2016.
-\newblock Vol.~49, no.~25.
-\newblock P.~8 -- 12.
+Industrial communication networks - Profiles - Part 1: Fieldbus profiles:
+  Standard: International electrotechnical commission, 2014.
+
+\bibitem{ISO11898}
+\selectlanguageifdefined{english}
+Road vehicles -- Controller area network (CAN) -- Part 1: Data link layer and
+  physical signalling: Standard: nternational Organization for Standardization,
+  2015.
+
+\bibitem{Modbus}
+\selectlanguageifdefined{english}
+Modicon Modbus Protocol Reference Guide, 1996.
+
+\bibitem{Bin200473}
+\selectlanguageifdefined{english}
+\BibEmph{Bin~L., Yun-fei~Z., Xiao-qi~T.} A research on open CNC system based on
+  architecture/component software reuse technology~// \BibEmph{Computers in
+  Industry}.
+\newblock 2004.
+\newblock Vol.~55, no.~1.
+\newblock P.~73 -- 85.
 
 \end{thebibliography}
