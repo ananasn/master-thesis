@@ -116,4 +116,24 @@ DIN SPEC 91345:2016-04 Reference Architecture Model Industrie 4.0 (RAMI4.0):
   Things Volume G1: Reference Architecture: Tech.~rep.: Industrial Internet
   Consortium, 2017.
 
+\bibitem{SOA}
+\selectlanguageifdefined{english}
+\BibEmph{Laskey~K.~B., Laskey~K.} Service oriented architecture~//
+  \BibEmph{Wiley Interdisciplinary Reviews: Computational Statistics}.
+\newblock 2009.
+\newblock Vol.~1, no.~1.
+\newblock P.~101--105.
+
+\bibitem{SOAManifesto}
+\selectlanguageifdefined{english}
+\href{www.soa-manifesto.org}{SOA Manifesto [Ёлектронный ресурс]}.
+\newblock \BibUrl{www.soa-manifesto.org} \BibUrlDate{23.04.2017}.
+
+\bibitem{MSA}
+\selectlanguageifdefined{english}
+\href{https://martinfowler.com/articles/microservices.html}{Microservices. A
+  definition of this new architectural term. [Ёлектронный ресурс]}.
+\newblock \BibUrl{https://martinfowler.com/articles/microservices.html}
+  \BibUrlDate{23.04.2017}.
+
 \end{thebibliography}

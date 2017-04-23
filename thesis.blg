@@ -8,45 +8,47 @@ Database file #1: thesis.bib
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--empty booktitle in Winnum
 Warning--empty booktitle in odroid
-You've used 16 entries,
+Warning--empty booktitle in SOAManifesto
+Warning--empty booktitle in MSA
+You've used 19 entries,
             3568 wiz_defined-function locations,
-            1120 strings with 11543 characters,
-and the built_in function-call counts, 3716 in all, are:
-= -- 485
-> -- 64
-< -- 5
-+ -- 29
-- -- 13
-* -- 172
-:= -- 377
-add.period$ -- 32
-call.type$ -- 16
+            1137 strings with 11935 characters,
+and the built_in function-call counts, 4564 in all, are:
+= -- 581
+> -- 74
+< -- 7
++ -- 34
+- -- 15
+* -- 229
+:= -- 457
+add.period$ -- 41
+call.type$ -- 19
 change.case$ -- 10
 chr.to.int$ -- 0
-cite$ -- 18
-duplicate$ -- 187
-empty$ -- 452
-format.name$ -- 13
-if$ -- 1024
+cite$ -- 23
+duplicate$ -- 238
+empty$ -- 564
+format.name$ -- 15
+if$ -- 1250
 int.to.chr$ -- 0
-int.to.str$ -- 16
+int.to.str$ -- 19
 missing$ -- 0
-newline$ -- 91
-num.names$ -- 4
-pop$ -- 77
+newline$ -- 108
+num.names$ -- 5
+pop$ -- 101
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 177
+skip$ -- 210
 stack$ -- 0
-substring$ -- 96
-swap$ -- 113
-text.length$ -- 5
+substring$ -- 128
+swap$ -- 141
+text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 2
-while$ -- 11
-width$ -- 18
-write$ -- 208
-(There were 2 warnings)
+warning$ -- 4
+while$ -- 15
+width$ -- 21
+write$ -- 247
+(There were 4 warnings)
