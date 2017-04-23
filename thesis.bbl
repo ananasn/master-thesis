@@ -88,4 +88,32 @@ Modicon Modbus Protocol Reference Guide, 1996.
 \newblock Vol.~55, no.~1.
 \newblock P.~73 -- 85.
 
+\bibitem{IEC62541}
+\selectlanguageifdefined{english}
+IEC 62541-100:2015 OPC Unified Architecture - Part 100: Device Interface:
+  Standard: International electrotechnical commission, 2015.
+
+\bibitem{IEC61987}
+\selectlanguageifdefined{english}
+IEC 61987-11:2016 Industrial-process measurement and control - Data structures
+  and elements in process equipment catalogues - Part 11: List of properties
+  (LOPs) of measuring equipment for electronic data exchange - Generic
+  structures: Standard: International electrotechnical commission, 2016.
+
+\bibitem{DIN40912}
+\selectlanguageifdefined{english}
+DIN SPEC 40912:2014-11 Core models - Specification and Examples: Standard:
+  German Institute for Standardization, 2014.
+
+\bibitem{DIN91345}
+\selectlanguageifdefined{english}
+DIN SPEC 91345:2016-04 Reference Architecture Model Industrie 4.0 (RAMI4.0):
+  Standard: German Institute for Standardization, 2016.
+
+\bibitem{IIRA}
+\selectlanguageifdefined{english}
+\BibEmph{Lin~S.-W., Miller~B., Durand~J. et~al.} The Industrial Internet of
+  Things Volume G1: Reference Architecture: Tech.~rep.: Industrial Internet
+  Consortium, 2017.
+
 \end{thebibliography}
