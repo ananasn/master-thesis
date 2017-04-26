@@ -136,4 +136,17 @@ DIN SPEC 91345:2016-04 Reference Architecture Model Industrie 4.0 (RAMI4.0):
 \newblock \BibUrl{https://martinfowler.com/articles/microservices.html}
   \BibUrlDate{23.04.2017}.
 
+\bibitem{theory_of_cnc}
+\selectlanguageifdefined{english}
+\BibEmph{Suh~S.-H., Kang~S.-K., Chung~D.-H., Stroud~I.} Theory and Design of
+  CNC Systems.
+\newblock Springer-Verlag, 2008.
+\newblock 455~p.
+
+\bibitem{unqlite}
+\selectlanguageifdefined{english}
+\href{https://unqlite.org/index.html}{An Embeddable NoSQL Database Engine.
+  [Ёлектронный ресурс]}.
+\newblock \BibUrl{https://unqlite.org/index.html} \BibUrlDate{25.04.2017}.
+
 \end{thebibliography}

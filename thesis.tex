@@ -45,6 +45,8 @@ left=3cm, right=2cm, top=2cm, bottom=2cm, headsep=0.7cm, footskip=1cm
 
 \usepackage[tableposition=top]{caption}
 \usepackage{subcaption}
+
+
 \DeclareCaptionLabelFormat{gostfigure}{Рисунок #2}
 \DeclareCaptionLabelFormat{gosttable}{Таблица #2}
 \DeclareCaptionLabelSeparator{gost}{~---~}
@@ -142,6 +144,8 @@ left=3cm, right=2cm, top=2cm, bottom=2cm, headsep=0.7cm, footskip=1cm
 \hyphenpenalty=50
 %список сокращений
 %убираем точку в номерах заголовков
+ \lefthyphenmin=3
+  \righthyphenmin=3
 \input{abbrev}
 % Введение
 \input{intro}
