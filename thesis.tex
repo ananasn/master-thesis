@@ -8,7 +8,6 @@ colorlinks=true, % цветные гиперссылки
 %times            % шрифт Times как основной
 ]{disser}
 
-
 %\usepackage[
 %  a4paper, mag=1000,
   %left=2.5cm, right=1cm, top=2cm, bottom=2cm, headsep=0.7 cm, footskip=1cm
@@ -131,13 +130,21 @@ left=3cm, right=2cm, top=2cm, bottom=2cm, headsep=0.7cm, footskip=1cm
 \date{\number\year}
 \renewcommand\postthesection{~}
 \renewcommand\postthesubsection{~}
+\renewcommand\postthesection{~}
 %\renewcommand\tocsubsectionfill{\tocfill{}}
 \renewcommand\tocpostthesubsection{}
 \renewcommand\tocpostthesection{}
 \renewcommand\tocpostthechapter{}
+\renewcommand\tocpostthesubsection{~}
+\renewcommand\tocpostthesection{~}
 \renewcommand\tocposttheappendix{\ \;}
+%Список рисунков
+\renewcommand{\listfigurename}{Перечень рисунков}
+\renewcommand{\listtablename}{Перечень таблиц}
 %\maketitle
+\input{docs}
  \hyphenpenalty=10000
+ 
 \setcounter{page}{7}
 % Содержание
 \tableofcontents
@@ -146,7 +153,6 @@ left=3cm, right=2cm, top=2cm, bottom=2cm, headsep=0.7cm, footskip=1cm
 %убираем точку в номерах заголовков
  \lefthyphenmin=3
   \righthyphenmin=3
-\input{abbrev}
 % Введение
 \input{intro}
 % Глава 1
@@ -157,13 +163,17 @@ left=3cm, right=2cm, top=2cm, bottom=2cm, headsep=0.7cm, footskip=1cm
 \input{3}
 % Заключение
 \input{concl}
+\listoffigures
+ 
+\listoftables
 
+\input{abbrev}
 % Список литературы
 %bibtex8 -H -c cp1251.csf thesis.aux
 \bibliography{thesis}
 \bibliographystyle{gost705}
 %Приложения
 \appendix
-\input{app-a}
+%\input{app-a}
 
 \end{document}

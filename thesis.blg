@@ -10,46 +10,48 @@ Warning--empty booktitle in Winnum
 Warning--empty booktitle in odroid
 Warning--empty booktitle in SOAManifesto
 Warning--empty booktitle in MSA
+Warning--empty booktitle in stages
+Warning--empty booktitle in structappr
 Warning--empty booktitle in unqlite
-You've used 21 entries,
+You've used 26 entries,
             3568 wiz_defined-function locations,
-            1147 strings with 12173 characters,
-and the built_in function-call counts, 5071 in all, are:
-= -- 634
-> -- 91
-< -- 7
-+ -- 40
-- -- 19
-* -- 258
-:= -- 510
-add.period$ -- 47
-call.type$ -- 21
+            1173 strings with 12938 characters,
+and the built_in function-call counts, 6634 in all, are:
+= -- 835
+> -- 109
+< -- 11
++ -- 49
+- -- 23
+* -- 354
+:= -- 659
+add.period$ -- 65
+call.type$ -- 26
 change.case$ -- 10
 chr.to.int$ -- 0
-cite$ -- 26
-duplicate$ -- 267
-empty$ -- 635
-format.name$ -- 19
-if$ -- 1386
+cite$ -- 33
+duplicate$ -- 357
+empty$ -- 827
+format.name$ -- 23
+if$ -- 1812
 int.to.chr$ -- 0
-int.to.str$ -- 21
+int.to.str$ -- 26
 missing$ -- 0
-newline$ -- 119
-num.names$ -- 6
-pop$ -- 122
+newline$ -- 149
+num.names$ -- 9
+pop$ -- 157
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 229
+skip$ -- 286
 stack$ -- 0
-substring$ -- 128
-swap$ -- 152
-text.length$ -- 7
+substring$ -- 192
+swap$ -- 207
+text.length$ -- 11
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 5
-while$ -- 16
-width$ -- 23
-write$ -- 272
-(There were 5 warnings)
+warning$ -- 7
+while$ -- 25
+width$ -- 28
+write$ -- 343
+(There were 7 warnings)

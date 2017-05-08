@@ -143,10 +143,49 @@ DIN SPEC 91345:2016-04 Reference Architecture Model Industrie 4.0 (RAMI4.0):
 \newblock Springer-Verlag, 2008.
 \newblock 455~p.
 
+\bibitem{modappr}
+\selectlanguageifdefined{russian}
+\BibEmph{Синяков~А.~И.} Анализ модульного подхода и его применение в различных
+  языках программирования~// \BibEmph{Методы и инструменты конструирования и
+  оптимизации программ}.
+\newblock 2005.
+\newblock {\cyr\CYRT.}~1, {\cyr\textnumero}~1.
+\newblock {\cyr\CYRS.}~197--228.
+
+\bibitem{stages}
+\selectlanguageifdefined{english}
+\href{http://ab-solut.net/ru/articles/etapi_po/}{Разработка ПО. Этапы
+  разработки программного обеспечения. [Электронный ресурс]}.
+\newblock \BibUrl{http://ab-solut.net/ru/articles/etapi_po/}
+  \BibUrlDate{30.04.2017}.
+
+\bibitem{structappr}
+\selectlanguageifdefined{english}
+\href{http://citforum.ru/database/case/glava2_1.shtml}{Структурный подход к
+  проектированию ИС. [Электронный ресурс]}.
+\newblock \BibUrl{http://citforum.ru/database/case/glava2_1.shtml}
+  \BibUrlDate{30.04.2017}.
+
+\bibitem{osi}
+\selectlanguageifdefined{english}
+\BibEmph{Stevens~W.~R.} TCP/IP Illustrated (Vol. 1): The Protocols.
+\newblock Boston, MA, USA: Addison-Wesley Longman Publishing Co., Inc., 1993.
+\newblock
+  ISBN:~\href{http://isbndb.com/search-all.html?kw=0-201-63346-9}{0-201-63346-9}.
+
 \bibitem{unqlite}
 \selectlanguageifdefined{english}
 \href{https://unqlite.org/index.html}{An Embeddable NoSQL Database Engine.
   [Электронный ресурс]}.
 \newblock \BibUrl{https://unqlite.org/index.html} \BibUrlDate{25.04.2017}.
+
+\bibitem{adapteq}
+\selectlanguageifdefined{russian}
+\BibEmph{Афанасьев~М.~Я., Грибовский~А.~А.} Концепция адаптивной платформы
+  технологического оборудования~// \BibEmph{Известия высших учебных заведений.
+  Приборостроение}.
+\newblock 2015.
+\newblock {\cyr\CYRT.}~58, {\cyr\textnumero}~4.
+\newblock {\cyr\CYRS.}~268--272.
 
 \end{thebibliography}
