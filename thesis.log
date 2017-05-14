@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.1.28)  8 MAY 2017 19:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.1.28)  14 MAY 2017 19:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -621,139 +621,7 @@ Package color Info: Redefining color red on input line 91.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2014/03/04 1.5c listings language file
 )
-(./docs.tex
-*geometry* verbose mode - [ newgeometry ] result:
-* driver: pdftex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(0.0pt, 597.50787pt, 0.0pt)
-* v-part:(T,H,B)=(0.0pt, 845.04684pt, 0.0pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=597.50787pt
-* \textheight=845.04684pt
-* \oddsidemargin=-72.26999pt
-* \evensidemargin=-72.26999pt
-* \topmargin=-106.18683pt
-* \headheight=14.0pt
-* \headsep=19.91684pt
-* \topskip=14.0pt
-* \footskip=28.45274pt
-* \marginparwidth=15.0pt
-* \marginparsep=10.0pt
-* \columnsep=10.0pt
-* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
- <fig/tt-0.pdf, id=109, 1660.2025pt x 2347.77126pt>
-File: fig/tt-0.pdf Graphic file (type pdf)
-
-<use fig/tt-0.pdf>
-Package pdftex.def Info: fig/tt-0.pdf used on input line 7.
-(pdftex.def)             Requested size: 597.50787pt x 844.94626pt.
-
-
-LaTeX Warning: Float too large for page by 25.39941pt on input line 9.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<fig/tt-1.pdf, id=110, 1660.2025pt x 2347.77126pt>
-File: fig/tt-1.pdf Graphic file (type pdf)
- <use fig/tt-1.pdf>
-Package pdftex.def Info: fig/tt-1.pdf used on input line 12.
-(pdftex.def)             Requested size: 597.50787pt x 844.94626pt.
-
-
-LaTeX Warning: Float too large for page by 25.39941pt on input line 14.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<fig/zz-0.pdf, id=111, 1660.2025pt x 2347.77126pt>
-File: fig/zz-0.pdf Graphic file (type pdf)
- <use fig/zz-0.pdf>
-Package pdftex.def Info: fig/zz-0.pdf used on input line 17.
-(pdftex.def)             Requested size: 597.50787pt x 844.94626pt.
-
-
-LaTeX Warning: Float too large for page by 25.39941pt on input line 19.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<fig/zz-1.pdf, id=112, 1660.2025pt x 2347.77126pt>
-File: fig/zz-1.pdf Graphic file (type pdf)
- <use fig/zz-1.pdf>
-Package pdftex.def Info: fig/zz-1.pdf used on input line 22.
-(pdftex.def)             Requested size: 597.50787pt x 844.94626pt.
-
-
-LaTeX Warning: Float too large for page by 25.39941pt on input line 24.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<fig/ann-0.pdf, id=113, 1659.19875pt x 2346.7675pt>
-File: fig/ann-0.pdf Graphic file (type pdf)
- <use fig/ann-0.pdf>
-Package pdftex.def Info: fig/ann-0.pdf used on input line 27.
-(pdftex.def)             Requested size: 597.50787pt x 845.08633pt.
-
-
-LaTeX Warning: Float too large for page by 25.53949pt on input line 29.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<fig/ann-1.pdf, id=114, 1659.19875pt x 2346.7675pt>
-File: fig/ann-1.pdf Graphic file (type pdf)
- <use fig/ann-1.pdf>
-Package pdftex.def Info: fig/ann-1.pdf used on input line 32.
-(pdftex.def)             Requested size: 597.50787pt x 845.08633pt.
-
-
-LaTeX Warning: Float too large for page by 25.53949pt on input line 34.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[1 <./fig/tt-0.pdf>]pdfTeX warning (ext4): destination with the same identifier
- (name{page.}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.35 \restoregeometry
-                      [2 <./fig/tt-1.pdf>]pdfTeX warning (ext4): destination wi
-th the same identifier (name{page.}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.35 \restoregeometry
-                      [3 <./fig/zz-0.pdf>]pdfTeX warning (ext4): destination wi
-th the same identifier (name{page.}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.35 \restoregeometry
-                      [4 <./fig/zz-1.pdf>]pdfTeX warning (ext4): destination wi
-th the same identifier (name{page.}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.35 \restoregeometry
-                      [5 <./fig/ann-0.pdf>]pdfTeX warning (ext4): destination w
-ith the same identifier (name{page.}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.35 \restoregeometry
-                      [6 <./fig/ann-1.pdf>]) (./thesis.toc<<ot1.cmap>><<oml.cma
-p>><<oms.cmap>><<omx.cmap>>
+(./thesis.toc<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
 LaTeX Font Info:    Try loading font information for U+msa on input line 2.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -783,10 +651,6 @@ Overfull \hbox (12.48047pt too wide) in paragraph at lines 16--16
 [7
 
 
-
-
-
-
 {/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 Overfull \hbox (5.43059pt too wide) in paragraph at lines 20--20
  [][] [][][]\T2A/cmr/m/n/14.4/-30ls (-20) Описание вза^^?и^^?мо^^?дей^^?ствия р
@@ -801,21 +665,22 @@ Overfull \hbox (5.43059pt too wide) in paragraph at lines 20--20
 
 
 ] [10]
-Overfull \hbox (2.89182pt too wide) in paragraph at lines 28--30
+Overfull \hbox (2.89182pt too wide) in paragraph at lines 29--31
 \T2A/cmr/m/n/14.4 (-20) турно-^^?модуль^^?ного под^^?хода к раз^^?ра^^?ботке гр
 а^^?фи^^?че^^?ского интер^^?фейса системы
  []
 
-[11]) (./1.tex [12]
+[11]
+Overfull \hbox (14.01334pt too wide) in paragraph at lines 40--41
+[]\T2A/cmr/m/it/14.4/-32ls (-20) Структура маги^^?стер^^?ской дис^^?сер^^?та^^?
+ции. \T2A/cmr/m/n/14.4/-32ls (-20) Маги^^?стер^^?ская дис^^?сер^^?та^^?ция сост
+оит
+ []
+
+) (./1.tex [12]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\\' on input line 2.
-
-
-Overfull \hbox (0.29944pt too wide) in paragraph at lines 8--9
-\T2A/cmr/m/n/14.4 (-20) КИН>> пред^^?ла^^?гают под^^?ход к постро^^?е^^?нию пер
-е^^?но^^?си^^?мого ядра ЧПУ на основе
- []
 
 [13
 
@@ -828,10 +693,10 @@ Overfull \hbox (5.0626pt too wide) in paragraph at lines 10--12
 [14]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\textls' on input line 18.
+(hyperref)                removing `\textls' on input line 16.
 
 
-Overfull \hbox (5.40755pt too wide) in paragraph at lines 25--26
+Overfull \hbox (5.40755pt too wide) in paragraph at lines 23--24
 [] \T2A/cmr/bx/it/14.4 Уни^^?фи^^?ка^^?ция\T2A/cmr/m/n/14.4 (-20) . Под уни^^?ф
 и^^?ка^^?цией пони^^?ма^^?ется откры^^?тая про^^?граммно-^^?
  []
@@ -839,15 +704,15 @@ Overfull \hbox (5.40755pt too wide) in paragraph at lines 25--26
 [15] [16]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\textls' on input line 41.
+(hyperref)                removing `\textls' on input line 39.
 
 [17] [18]
-Overfull \hbox (10.20741pt too wide) in paragraph at lines 58--59
+Overfull \hbox (10.20741pt too wide) in paragraph at lines 56--57
 []\T2A/cmr/m/n/14.4 (-20) Проведенные иссле^^?до^^?ва^^?ния пока^^?зали, что пр
 ед^^?мет^^?ная область активно
  []
 
-[19]) (./2.tex [20] <fig/019_FANUC-0iTD.jpg, id=350, 1445.4pt x 867.24pt>
+[19]) (./2.tex [20] <fig/019_FANUC-0iTD.jpg, id=287, 1445.4pt x 867.24pt>
 File: fig/019_FANUC-0iTD.jpg Graphic file (type jpg)
 
 <use fig/019_FANUC-0iTD.jpg>
@@ -857,7 +722,7 @@ Package pdftex.def Info: fig/019_FANUC-0iTD.jpg used on input line 18.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<fig/kse_cnc.jpg, id=351, 120.85284pt x 116.26044pt>
+<fig/kse_cnc.jpg, id=288, 120.85284pt x 116.26044pt>
 File: fig/kse_cnc.jpg Graphic file (type jpg)
  <use fig/kse_cnc.jpg>
 Package pdftex.def Info: fig/kse_cnc.jpg used on input line 26.
@@ -933,7 +798,7 @@ o.pdf fig/scheme.eps>
 (epstopdf)             \includegraphics on input line 52.
 Package epstopdf Info: Output file is already uptodate.
 
-<fig/scheme-eps-converted-to.pdf, id=439, 754.82pt x 310.15875pt>
+<fig/scheme-eps-converted-to.pdf, id=377, 754.82pt x 310.15875pt>
 File: fig/scheme-eps-converted-to.pdf Graphic file (type pdf)
 
 <use fig/scheme-eps-converted-to.pdf>
@@ -944,7 +809,7 @@ Package pdftex.def Info: fig/scheme-eps-converted-to.pdf used on input line 52.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<fig/struct.png, id=440, 853.65324pt x 513.55061pt>
+<fig/struct.png, id=378, 853.65324pt x 513.55061pt>
 File: fig/struct.png Graphic file (type png)
  <use fig/struct.png>
 Package pdftex.def Info: fig/struct.png used on input line 190.
@@ -953,7 +818,7 @@ Package pdftex.def Info: fig/struct.png used on input line 190.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[32] <fig/modern_cnc.png, id=449, 779.91376pt x 454.69875pt>
+[32] <fig/modern_cnc.png, id=387, 779.91376pt x 454.69875pt>
 File: fig/modern_cnc.png Graphic file (type png)
 
 <use fig/modern_cnc.png>
@@ -975,7 +840,7 @@ to.pdf fig/guiappr.eps>
 (epstopdf)             \includegraphics on input line 52.
 Package epstopdf Info: Output file is already uptodate.
 
-<fig/guiappr-eps-converted-to.pdf, id=460, 1008.76875pt x 404.51125pt>
+<fig/guiappr-eps-converted-to.pdf, id=397, 1008.76875pt x 404.51125pt>
 File: fig/guiappr-eps-converted-to.pdf Graphic file (type pdf)
 
 <use fig/guiappr-eps-converted-to.pdf>
@@ -997,7 +862,7 @@ Overfull \hbox (1.5085pt too wide) in paragraph at lines 220--221
  []
 
 [34 <./fig/modern_cnc.png>] [35 <./fig/guiappr-eps-converted-to.pdf>] [36]
-[37] [38] <fig/rami.jpg, id=488, 2949.0175pt x 1765.59625pt>
+[37] [38] <fig/rami.jpg, id=425, 2949.0175pt x 1765.59625pt>
 File: fig/rami.jpg Graphic file (type jpg)
 
 <use fig/rami.jpg>
@@ -1024,7 +889,7 @@ Package epstopdf Info: Source file: <fig/deploy.eps>
 o.pdf fig/deploy.eps>
 (epstopdf)             \includegraphics on input line 9.
 Package epstopdf Info: Output file is already uptodate.
-<fig/deploy-eps-converted-to.pdf, id=529, 613.29124pt x 333.245pt>
+<fig/deploy-eps-converted-to.pdf, id=471, 613.29124pt x 333.245pt>
 File: fig/deploy-eps-converted-to.pdf Graphic file (type pdf)
 
 <use fig/deploy-eps-converted-to.pdf>
@@ -1033,18 +898,18 @@ Package pdftex.def Info: fig/deploy-eps-converted-to.pdf used on input line 9.
  [44
 
  <./fig/deploy-eps-converted-to.pdf>]
-<fig/wrap.png, id=540, 1105.12875pt x 579.66562pt>
+<fig/wrap.png, id=482, 1105.12875pt x 579.66562pt>
 File: fig/wrap.png Graphic file (type png)
  <use fig/wrap.png>
 Package pdftex.def Info: fig/wrap.png used on input line 21.
 (pdftex.def)             Requested size: 455.24411pt x 238.7789pt.
- [45 <./fig/wrap.png>] <fig/websock.png, id=548, 775.89874pt x 447.6725pt>
+ [45 <./fig/wrap.png>] <fig/websock.png, id=490, 775.89874pt x 447.6725pt>
 File: fig/websock.png Graphic file (type png)
 
 <use fig/websock.png>
 Package pdftex.def Info: fig/websock.png used on input line 30.
 (pdftex.def)             Requested size: 455.24411pt x 262.6695pt.
- <fig/server.png, id=550, 747.79375pt x 443.6575pt>
+ <fig/server.png, id=492, 747.79375pt x 443.6575pt>
 File: fig/server.png Graphic file (type png)
 
 <use fig/server.png>
@@ -1066,22 +931,45 @@ n/14.4 (-20) .
  []
 
 [46 <./fig/websock.png>] [47 <./fig/server.png>]
-<fig/hs.png, id=568, 706.64pt x 481.8pt>
-File: fig/hs.png Graphic file (type png)
- <use fig/hs.png>
-Package pdftex.def Info: fig/hs.png used on input line 57.
-(pdftex.def)             Requested size: 409.71692pt x 279.35597pt.
+Package epstopdf Info: Source file: <fig/hs.eps>
+(epstopdf)                    date: 2017-05-08 22:35:51
+(epstopdf)                    size: 104349 bytes
+(epstopdf)             Output file: <fig/hs-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-05-08 22:36:11
+(epstopdf)                    size: 26019 bytes
+(epstopdf)             Command: <repstopdf --outfile=fig/hs-eps-converted-to.pd
+f fig/hs.eps>
+(epstopdf)             \includegraphics on input line 57.
+Package epstopdf Info: Output file is already uptodate.
 
-<fig/seq.png, id=569, 1451.4225pt x 964.60374pt>
-File: fig/seq.png Graphic file (type png)
- <use fig/seq.png>
-Package pdftex.def Info: fig/seq.png used on input line 65.
-(pdftex.def)             Requested size: 455.24411pt x 302.54182pt.
+<fig/hs-eps-converted-to.pdf, id=510, 362.35374pt x 310.15875pt>
+File: fig/hs-eps-converted-to.pdf Graphic file (type pdf)
+
+<use fig/hs-eps-converted-to.pdf>
+Package pdftex.def Info: fig/hs-eps-converted-to.pdf used on input line 57.
+(pdftex.def)             Requested size: 364.19667pt x 311.74341pt.
+Package epstopdf Info: Source file: <fig/seq.eps>
+(epstopdf)                    date: 2017-05-09 18:25:43
+(epstopdf)                    size: 119444 bytes
+(epstopdf)             Output file: <fig/seq-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-05-09 19:34:31
+(epstopdf)                    size: 29399 bytes
+(epstopdf)             Command: <repstopdf --outfile=fig/seq-eps-converted-to.p
+df fig/seq.eps>
+(epstopdf)             \includegraphics on input line 65.
+Package epstopdf Info: Output file is already uptodate.
+
+<fig/seq-eps-converted-to.pdf, id=511, 455.7025pt x 367.3725pt>
+File: fig/seq-eps-converted-to.pdf Graphic file (type pdf)
+
+<use fig/seq-eps-converted-to.pdf>
+Package pdftex.def Info: fig/seq-eps-converted-to.pdf used on input line 65.
+(pdftex.def)             Requested size: 455.24411pt x 367.01282pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[48 <./fig/hs.png>]
+[48 <./fig/hs-eps-converted-to.pdf>]
 Underfull \hbox (badness 10000) detected at line 76
 []
  []
@@ -1094,10 +982,7 @@ Underfull \hbox (badness 10000) detected at line 109
 []
  []
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[49 <./fig/seq.png>] [50]) (./concl.tex [51]
+[49 <./fig/seq-eps-converted-to.pdf>] [50]) (./concl.tex [51]
 Overfull \hbox (2.51886pt too wide) in paragraph at lines 13--14
 []\T2A/cmr/m/n/14.4 (-20) Было обос^^?но^^?вано при^^?ме^^?не^^?ние струк^^?тур
 но-^^?модуль^^?ного под^^?хода с помо^^?
@@ -1117,30 +1002,47 @@ Overfull \hbox (2.51886pt too wide) in paragraph at lines 13--14
 
  (./abbrev.tex [55
 
-]) (./thesis.bbl [56
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3--68
 
-] [57
+ []
+
+[56
+
+]) (./thesis.bbl [57] [58
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 135--138
+Underfull \hbox (badness 10000) in paragraph at lines 89--93
+[][][]\T2A/cmr/m/n/14.4 (+20) Modicon Mod^^?bus Pro^^?to^^?col Ref^^?er^^?ence 
+Guide[][].  URL: [][]$\T2A/cmtt/m/n/14.4 http :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--93
+\T2A/cmtt/m/n/14.4 / / www . schneider-[]electric . com / cn / en / download / 
+document /
+ []
+
+[59]
+Underfull \hbox (badness 10000) in paragraph at lines 147--150
 [][][]\T2A/cmr/m/n/14.4 (+20) Microservices. A def^^?i^^?ni^^?tion of this new 
 archi^^?tec^^?tural term.
  []
 
-[58]
-Underfull \hbox (badness 1337) in paragraph at lines 158--161
+
+Underfull \hbox (badness 1337) in paragraph at lines 170--173
 [][][]\T2A/cmr/m/n/14.4 (+20) Разработка ПО. Этапы разработки программного обес
 печения.
  []
 
 
-Underfull \hbox (badness 1337) in paragraph at lines 165--168
+Underfull \hbox (badness 1337) in paragraph at lines 177--180
 \T2A/cmr/m/n/14.4 (+20) URL: [][]$\T2A/cmtt/m/n/14.4 http : / / citforum . ru /
  database / case / glava2 _ 1 . shtml$[][] \T2A/cmr/m/n/14.4 (+20) ([]да^^?та
  []
 
 
-Underfull \hbox (badness 1502) in paragraph at lines 171--175
+Underfull \hbox (badness 1502) in paragraph at lines 183--187
 \T2A/cmr/m/n/14.4 (+20) MA, USA: Addis^^?on-Wes^^?ley Long^^?man Pub^^?lish^^?i
 ng Co., Inc., 1993.
  []
@@ -1151,13 +1053,13 @@ Package caption Warning: Unused \captionsetup[sub] on input line 41.
 See the caption package documentation for explanation.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 179.
-[59]
+[60]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 179.
  (./thesis.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 179.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 179.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: E1FCD4A7C903FCBABA59836ABFE1EC0B;11873.
+(rerunfilecheck)             Checksum: 48D51B1F37862A4A4CBD960271DA9086;11977.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -1165,15 +1067,18 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 179.
  ) 
 Here is how much of TeX's memory you used:
- 16896 strings out of 493117
- 245989 string characters out of 6135433
- 359086 words of memory out of 5000000
- 19573 multiletter control sequences out of 15000+600000
- 45634 words of font info for 226 fonts, out of 8000000 for 9000
+ 16965 strings out of 493117
+ 247230 string characters out of 6135433
+ 358759 words of memory out of 5000000
+ 19596 multiletter control sequences out of 15000+600000
+ 56752 words of font info for 272 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,9n,40p,1390b,1360s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{Hfootnote.14} has been referenced but does not ex
+ 43i,9n,42p,1454b,1358s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{Hfootnote.15} has been referenced but does not ex
 ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.14} has been referenced but does not exis
+t, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.13} has been referenced but does not exis
 t, replaced by a fixed one
@@ -1227,11 +1132,14 @@ ive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texliv
 e/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/
 2014/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></usr/local/texlive/20
 14/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb></usr/local/texlive/2014
-/texmf-dist/fonts/type1/public/cm-super/sftt1440.pfb>
-Output written on thesis.pdf (59 pages, 8812983 bytes).
+/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/local/texlive/2014/t
+exmf-dist/fonts/type1/public/cm-super/sftt1440.pfb></usr/local/texlive/2014/tex
+mf-dist/fonts/type1/public/cm-super/sfxc1440.pfb></usr/local/texlive/2014/texmf
+-dist/fonts/type1/public/cm-super/sfxc2074.pfb>
+Output written on thesis.pdf (54 pages, 6180999 bytes).
 PDF statistics:
- 760 PDF objects out of 1000 (max. 8388607)
- 634 compressed objects within 7 object streams
- 184 named destinations out of 1000 (max. 500000)
- 60228 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 744 PDF objects out of 1000 (max. 8388607)
+ 629 compressed objects within 7 object streams
+ 180 named destinations out of 1000 (max. 500000)
+ 70950 words of extra memory for PDF output out of 74296 (max. 10000000)
 
