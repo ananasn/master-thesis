@@ -1,1 +1,92 @@
-\chapter{Имя приложения}
+\chapter{Программная реализация обработчиков основных запросов на сервер}
+\label{app:a}
+
+\begin{lstlisting}[
+    language=Golang, showstringspaces=false,basicstyle=\small\ttfamily,
+    numbers=left,numberstyle=\footnotesize,numbersep=5pt,frame=tb, keywordstyle=\itshape,
+    stringstyle=\color{red}\itshape,
+    caption={Реализация обработчиков основных запросов на сервер}
+]
+package controllers
+
+import (
+    "servergui/app"
+    "servergui/app/streamcam"
+    "servergui/app/webterm"
+    "strconv"
+
+    "github.com/revel/revel"
+    "golang.org/x/net/websocket"
+)
+
+type WebSockApp struct {
+    *revel.Controller
+}
+
+func (c WebSockApp) Index() revel.Result {
+    revel.INFO.Printf("%s", "GET request recieved")
+    host := app.AddrHTTP
+    port := app.PortHTTP
+    return c.Render(host, port)
+}
+
+func (c WebSockApp) StreamWidget() revel.Result {
+    revel.INFO.Printf("%s", "GET request recieved")
+    host := app.AddrHTTP
+    port := app.PortHTTP
+    return c.Render(host, port)
+}
+
+func (c WebSockApp) AxisMovementsWidget() revel.Result {
+    revel.INFO.Printf("%s", "GET request recieved")
+    host := app.AddrHTTP
+    port := app.PortHTTP
+    return c.Render(host, port)
+}
+
+func (c WebSockApp) CoordInfoWidget() revel.Result {
+    revel.INFO.Printf("%s", "GET request recieved")
+    host := app.AddrHTTP
+    port := app.PortHTTP
+    return c.Render(host, port)
+}
+func (c WebSockApp) GCodeWidget() revel.Result {
+    revel.INFO.Printf("%s", "GET request recieved")
+    host := app.AddrHTTP
+    port := app.PortHTTP
+    return c.Render(host, port)
+}
+
+func (c WebSockApp) WSHandler(usr string,
+                              ws *websocket.Conn)
+                              revel.Result {
+    defer ws.Close()
+    revel.INFO.Printf("%s", "WS request recieved")
+    newmessages := make(chan string)
+    quit := make(chan struct{})
+    go streamcam.StreamVideo(ws, quit, app.GetCapture())
+    go func() {
+        var msg string
+        for {
+            err := websocket.Message.Receive(ws, &msg)
+            if err != nil {
+                close(newmessages)
+                return
+            }
+            newmessages <- msg
+        }
+    }()
+    for {
+        select {
+        case msg := <-newmessages:
+            if msg == "" {
+                close(quit)
+                revel.INFO.Printf("%s", "Closed")
+                return nil
+            }
+            revel.INFO.Printf("WS message '%s'", msg)
+        }
+    }
+}
+
+\end{lstlisting}

@@ -1,0 +1,1124 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.1.28)  15 MAY 2017 21:10
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**app-a.tex
+(./app-a.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+! Undefined control sequence.
+l.1 \chapter
+            {Программная реализация сервера}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \chapter{П
+              рограммная реализация сервера}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no П in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no о in font nullfont!
+Missing character: There is no г in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no а in font nullfont!
+Missing character: There is no м in font nullfont!
+Missing character: There is no м in font nullfont!
+Missing character: There is no н in font nullfont!
+Missing character: There is no а in font nullfont!
+Missing character: There is no я in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no а in font nullfont!
+Missing character: There is no л in font nullfont!
+Missing character: There is no и in font nullfont!
+Missing character: There is no з in font nullfont!
+Missing character: There is no а in font nullfont!
+Missing character: There is no ц in font nullfont!
+Missing character: There is no и in font nullfont!
+Missing character: There is no я in font nullfont!
+Missing character: There is no с in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no в in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no а in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--3
+[]
+ []
+
+
+! LaTeX Error: Environment lstlisting undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \begin{lstlisting}
+                      [
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \begin{lstlisting}[
+                       
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+! Undefined control sequence.
+l.5 ...g, showstringspaces=false,basicstyle=\small
+                                                  \ttfamily,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.6     numbers=left,numberstyle=\footnotesize
+                                              ,numbersep=5pt,frame=tb, keywo...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.7     stringstyle=\color
+                          {red}\itshape,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no Р in font cmitt10!
+Missing character: There is no е in font cmitt10!
+Missing character: There is no а in font cmitt10!
+Missing character: There is no л in font cmitt10!
+Missing character: There is no и in font cmitt10!
+Missing character: There is no з in font cmitt10!
+Missing character: There is no а in font cmitt10!
+Missing character: There is no ц in font cmitt10!
+Missing character: There is no и in font cmitt10!
+Missing character: There is no я in font cmitt10!
+Missing character: There is no о in font cmitt10!
+Missing character: There is no б in font cmitt10!
+Missing character: There is no р in font cmitt10!
+Missing character: There is no а in font cmitt10!
+Missing character: There is no б in font cmitt10!
+Missing character: There is no о in font cmitt10!
+Missing character: There is no т in font cmitt10!
+Missing character: There is no ч in font cmitt10!
+Missing character: There is no и in font cmitt10!
+Missing character: There is no к in font cmitt10!
+Missing character: There is no о in font cmitt10!
+Missing character: There is no в in font cmitt10!
+Missing character: There is no о in font cmitt10!
+Missing character: There is no с in font cmitt10!
+Missing character: There is no н in font cmitt10!
+Missing character: There is no о in font cmitt10!
+Missing character: There is no в in font cmitt10!
+Missing character: There is no н in font cmitt10!
+Missing character: There is no ы in font cmitt10!
+Missing character: There is no х in font cmitt10!
+Missing character: There is no з in font cmitt10!
+Missing character: There is no а in font cmitt10!
+Missing character: There is no п in font cmitt10!
+Missing character: There is no р in font cmitt10!
+Missing character: There is no о in font cmitt10!
+Missing character: There is no с in font cmitt10!
+Missing character: There is no о in font cmitt10!
+Missing character: There is no в in font cmitt10!
+Missing character: There is no н in font cmitt10!
+Missing character: There is no а in font cmitt10!
+Missing character: There is no с in font cmitt10!
+Missing character: There is no е in font cmitt10!
+Missing character: There is no р in font cmitt10!
+Missing character: There is no в in font cmitt10!
+Missing character: There is no е in font cmitt10!
+Missing character: There is no р in font cmitt10!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 4--11
+[]
+ []
+
+
+Overfull \hbox (5.24995pt too wide) in paragraph at lines 4--11
+\OT1/cmtt/m/n/10 ,
+ []
+
+
+Overfull \hbox (257.24776pt too wide) in paragraph at lines 4--11
+\OT1/cmtt/m/n/10 numbers=left,numberstyle=,numbersep=5pt,frame=tb,
+ []
+
+
+Overfull \hbox (73.49936pt too wide) in paragraph at lines 4--11
+\OT1/cmtt/m/n/10 keywordstyle=\OT1/cmtt/m/it/10 ,
+ []
+
+
+Overfull \hbox (83.99927pt too wide) in paragraph at lines 4--11
+\OT1/cmtt/m/it/10 stringstyle=red,
+ []
+
+
+Overfull \hbox (41.99963pt too wide) in paragraph at lines 4--11
+\OT1/cmtt/m/it/10 caption=
+ []
+
+
+Overfull \hbox (5.24995pt too wide) in paragraph at lines 4--11
+\OT1/cmtt/m/it/10 ]
+ []
+
+
+Overfull \hbox (36.74968pt too wide) in paragraph at lines 4--11
+\OT1/cmtt/m/it/10 package
+ []
+
+
+Overfull \hbox (57.7495pt too wide) in paragraph at lines 4--11
+\OT1/cmtt/m/it/10 controllers 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 i
+      mport (
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (51.49973pt too wide) in paragraph at lines 12--17
+[]\OT1/cmtt/m/it/10 import
+ []
+
+
+Overfull \hbox (5.24995pt too wide) in paragraph at lines 12--17
+\OT1/cmtt/m/it/10 (
+ []
+
+
+Overfull \hbox (52.49954pt too wide) in paragraph at lines 12--17
+\OT1/cmtt/m/it/10 "meow/app"
+ []
+
+
+Overfull \hbox (104.99908pt too wide) in paragraph at lines 12--17
+\OT1/cmtt/m/it/10 "meow/app/streamcam"
+ []
+
+
+Overfull \hbox (94.49918pt too wide) in paragraph at lines 12--17
+\OT1/cmtt/m/it/10 "meow/app/webterm"
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 12--17
+\OT1/cmtt/m/it/10 "strconv" 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18     "
+          github.com/revel/revel"
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (145.9989pt too wide) in paragraph at lines 18--21
+[]\OT1/cmtt/m/it/10 "github.com/revel/revel"
+ []
+
+
+Overfull \hbox (146.99872pt too wide) in paragraph at lines 18--21
+\OT1/cmtt/m/it/10 "golang.org/x/net/websocket"
+ []
+
+
+Overfull \hbox (5.24995pt too wide) in paragraph at lines 18--21
+\OT1/cmtt/m/it/10 ) 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 t
+      ype WebSockApp struct {
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (40.99982pt too wide) in paragraph at lines 22--25
+[]\OT1/cmtt/m/it/10 type
+ []
+
+
+Overfull \hbox (52.49954pt too wide) in paragraph at lines 22--25
+\OT1/cmtt/m/it/10 WebSockApp
+ []
+
+
+Overfull \hbox (31.49973pt too wide) in paragraph at lines 22--25
+\OT1/cmtt/m/it/10 struct
+ []
+
+
+Overfull \hbox (89.24922pt too wide) in paragraph at lines 22--25
+\OT1/cmtt/m/it/10 *revel.Controller
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 f
+      unc (c WebSockApp) Index() revel.Result {
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (40.99982pt too wide) in paragraph at lines 26--32
+[]\OT1/cmtt/m/it/10 func
+ []
+
+
+Overfull \hbox (10.49991pt too wide) in paragraph at lines 26--32
+\OT1/cmtt/m/it/10 (c
+ []
+
+
+Overfull \hbox (57.7495pt too wide) in paragraph at lines 26--32
+\OT1/cmtt/m/it/10 WebSockApp)
+ []
+
+
+Overfull \hbox (36.74968pt too wide) in paragraph at lines 26--32
+\OT1/cmtt/m/it/10 Index()
+ []
+
+
+Overfull \hbox (62.99945pt too wide) in paragraph at lines 26--32
+\OT1/cmtt/m/it/10 revel.Result
+ []
+
+
+Overfull \hbox (120.74895pt too wide) in paragraph at lines 26--32
+\OT1/cmtt/m/it/10 revel.INFO.Printf("host
+ []
+
+
+Overfull \hbox (10.49991pt too wide) in paragraph at lines 26--32
+\OT1/cmtt/m/it/10 :=
+ []
+
+
+Overfull \hbox (62.99945pt too wide) in paragraph at lines 26--32
+\OT1/cmtt/m/it/10 app.AddrHTTP
+ []
+
+
+Overfull \hbox (20.99982pt too wide) in paragraph at lines 26--32
+\OT1/cmtt/m/it/10 port
+ []
+
+
+Overfull \hbox (10.49991pt too wide) in paragraph at lines 26--32
+\OT1/cmtt/m/it/10 :=
+ []
+
+
+Overfull \hbox (62.99945pt too wide) in paragraph at lines 26--32
+\OT1/cmtt/m/it/10 app.PortHTTP
+ []
+
+
+Overfull \hbox (31.49973pt too wide) in paragraph at lines 26--32
+\OT1/cmtt/m/it/10 return
+ []
+
+
+Overfull \hbox (73.49936pt too wide) in paragraph at lines 26--32
+\OT1/cmtt/m/it/10 c.Render(host,
+ []
+
+
+Overfull \hbox (26.24977pt too wide) in paragraph at lines 26--32
+\OT1/cmtt/m/it/10 port)
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 f
+      unc (c WebSockApp) StreamWidget() revel.Result {
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (40.99982pt too wide) in paragraph at lines 33--39
+[]\OT1/cmtt/m/it/10 func
+ []
+
+
+Overfull \hbox (10.49991pt too wide) in paragraph at lines 33--39
+\OT1/cmtt/m/it/10 (c
+ []
+
+
+Overfull \hbox (57.7495pt too wide) in paragraph at lines 33--39
+\OT1/cmtt/m/it/10 WebSockApp)
+ []
+
+
+Overfull \hbox (73.49936pt too wide) in paragraph at lines 33--39
+\OT1/cmtt/m/it/10 StreamWidget()
+ []
+
+
+Overfull \hbox (62.99945pt too wide) in paragraph at lines 33--39
+\OT1/cmtt/m/it/10 revel.Result
+ []
+
+
+Overfull \hbox (120.74895pt too wide) in paragraph at lines 33--39
+\OT1/cmtt/m/it/10 revel.INFO.Printf("host
+ []
+
+
+Overfull \hbox (10.49991pt too wide) in paragraph at lines 33--39
+\OT1/cmtt/m/it/10 :=
+ []
+
+
+Overfull \hbox (62.99945pt too wide) in paragraph at lines 33--39
+\OT1/cmtt/m/it/10 app.AddrHTTP
+ []
+
+
+Overfull \hbox (20.99982pt too wide) in paragraph at lines 33--39
+\OT1/cmtt/m/it/10 port
+ []
+
+
+Overfull \hbox (10.49991pt too wide) in paragraph at lines 33--39
+\OT1/cmtt/m/it/10 :=
+ []
+
+
+Overfull \hbox (62.99945pt too wide) in paragraph at lines 33--39
+\OT1/cmtt/m/it/10 app.PortHTTP
+ []
+
+
+Overfull \hbox (31.49973pt too wide) in paragraph at lines 33--39
+\OT1/cmtt/m/it/10 return
+ []
+
+
+Overfull \hbox (73.49936pt too wide) in paragraph at lines 33--39
+\OT1/cmtt/m/it/10 c.Render(host,
+ []
+
+
+Overfull \hbox (26.24977pt too wide) in paragraph at lines 33--39
+\OT1/cmtt/m/it/10 port)
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40 f
+      unc (c WebSockApp) AxisMovementsWidget() revel.Result {
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (40.99982pt too wide) in paragraph at lines 40--46
+[]\OT1/cmtt/m/it/10 func
+ []
+
+
+Overfull \hbox (10.49991pt too wide) in paragraph at lines 40--46
+\OT1/cmtt/m/it/10 (c
+ []
+
+
+Overfull \hbox (57.7495pt too wide) in paragraph at lines 40--46
+\OT1/cmtt/m/it/10 WebSockApp)
+ []
+
+
+Overfull \hbox (110.24904pt too wide) in paragraph at lines 40--46
+\OT1/cmtt/m/it/10 AxisMovementsWidget()
+ []
+
+
+Overfull \hbox (62.99945pt too wide) in paragraph at lines 40--46
+\OT1/cmtt/m/it/10 revel.Result
+ []
+
+
+Overfull \hbox (120.74895pt too wide) in paragraph at lines 40--46
+\OT1/cmtt/m/it/10 revel.INFO.Printf("host
+ []
+
+
+Overfull \hbox (10.49991pt too wide) in paragraph at lines 40--46
+\OT1/cmtt/m/it/10 :=
+ []
+
+
+Overfull \hbox (62.99945pt too wide) in paragraph at lines 40--46
+\OT1/cmtt/m/it/10 app.AddrHTTP
+ []
+
+
+Overfull \hbox (20.99982pt too wide) in paragraph at lines 40--46
+\OT1/cmtt/m/it/10 port
+ []
+
+
+Overfull \hbox (10.49991pt too wide) in paragraph at lines 40--46
+\OT1/cmtt/m/it/10 :=
+ []
+
+
+Overfull \hbox (62.99945pt too wide) in paragraph at lines 40--46
+\OT1/cmtt/m/it/10 app.PortHTTP
+ []
+
+
+Overfull \hbox (31.49973pt too wide) in paragraph at lines 40--46
+\OT1/cmtt/m/it/10 return
+ []
+
+
+Overfull \hbox (73.49936pt too wide) in paragraph at lines 40--46
+\OT1/cmtt/m/it/10 c.Render(host,
+ []
+
+
+Overfull \hbox (26.24977pt too wide) in paragraph at lines 40--46
+\OT1/cmtt/m/it/10 port)
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 f
+      unc (c WebSockApp) CoordInfoWidget() revel.Result {
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (40.99982pt too wide) in paragraph at lines 47--59
+[]\OT1/cmtt/m/it/10 func
+ []
+
+
+Overfull \hbox (10.49991pt too wide) in paragraph at lines 47--59
+\OT1/cmtt/m/it/10 (c
+ []
+
+
+Overfull \hbox (57.7495pt too wide) in paragraph at lines 47--59
+\OT1/cmtt/m/it/10 WebSockApp)
+ []
+
+
+Overfull \hbox (89.24922pt too wide) in paragraph at lines 47--59
+\OT1/cmtt/m/it/10 CoordInfoWidget()
+ []
+
+
+Overfull \hbox (62.99945pt too wide) in paragraph at lines 47--59
+\OT1/cmtt/m/it/10 revel.Result
+ []
+
+
+Overfull \hbox (120.74895pt too wide) in paragraph at lines 47--59
+\OT1/cmtt/m/it/10 revel.INFO.Printf("host
+ []
+
+
+Overfull \hbox (10.49991pt too wide) in paragraph at lines 47--59
+\OT1/cmtt/m/it/10 :=
+ []
+
+
+Overfull \hbox (62.99945pt too wide) in paragraph at lines 47--59
+\OT1/cmtt/m/it/10 app.AddrHTTP
+ []
+
+
+Overfull \hbox (20.99982pt too wide) in paragraph at lines 47--59
+\OT1/cmtt/m/it/10 port
+ []
+
+
+Overfull \hbox (10.49991pt too wide) in paragraph at lines 47--59
+\OT1/cmtt/m/it/10 :=
+ []
+
+
+Overfull \hbox (62.99945pt too wide) in paragraph at lines 47--59
+\OT1/cmtt/m/it/10 app.PortHTTP
+ []
+
+
+Overfull \hbox (31.49973pt too wide) in paragraph at lines 47--59
+\OT1/cmtt/m/it/10 return
+ []
+
+
+Overfull \hbox (73.49936pt too wide) in paragraph at lines 47--59
+\OT1/cmtt/m/it/10 c.Render(host,
+ []
+
+
+Overfull \hbox (26.24977pt too wide) in paragraph at lines 47--59
+\OT1/cmtt/m/it/10 port)
+ []
+
+
+Overfull \hbox (20.99982pt too wide) in paragraph at lines 47--59
+\OT1/cmtt/m/it/10 func
+ []
+
+
+Overfull \hbox (10.49991pt too wide) in paragraph at lines 47--59
+\OT1/cmtt/m/it/10 (c
+ []
+
+
+Overfull \hbox (57.7495pt too wide) in paragraph at lines 47--59
+\OT1/cmtt/m/it/10 WebSockApp)
+ []
+
+
+Overfull \hbox (68.2494pt too wide) in paragraph at lines 47--59
+\OT1/cmtt/m/it/10 GCodeWidget()
+ []
+
+
+Overfull \hbox (62.99945pt too wide) in paragraph at lines 47--59
+\OT1/cmtt/m/it/10 revel.Result
+ []
+
+
+Overfull \hbox (120.74895pt too wide) in paragraph at lines 47--59
+\OT1/cmtt/m/it/10 revel.INFO.Printf("host
+ []
+
+
+Overfull \hbox (10.49991pt too wide) in paragraph at lines 47--59
+\OT1/cmtt/m/it/10 :=
+ []
+
+
+Overfull \hbox (62.99945pt too wide) in paragraph at lines 47--59
+\OT1/cmtt/m/it/10 app.AddrHTTP
+ []
+
+
+Overfull \hbox (20.99982pt too wide) in paragraph at lines 47--59
+\OT1/cmtt/m/it/10 port
+ []
+
+
+Overfull \hbox (10.49991pt too wide) in paragraph at lines 47--59
+\OT1/cmtt/m/it/10 :=
+ []
+
+
+Overfull \hbox (62.99945pt too wide) in paragraph at lines 47--59
+\OT1/cmtt/m/it/10 app.PortHTTP
+ []
+
+
+Overfull \hbox (31.49973pt too wide) in paragraph at lines 47--59
+\OT1/cmtt/m/it/10 return
+ []
+
+
+Overfull \hbox (73.49936pt too wide) in paragraph at lines 47--59
+\OT1/cmtt/m/it/10 c.Render(host,
+ []
+
+
+Overfull \hbox (26.24977pt too wide) in paragraph at lines 47--59
+\OT1/cmtt/m/it/10 port)
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 f
+      unc (c WebSockApp) WSHandler(usr string,
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Misplaced alignment tab character &.
+l.71 ...    err := websocket.Message.Receive(ws, &
+                                                  msg)
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Overfull \hbox (40.99982pt too wide) in paragraph at lines 60--91
+[]\OT1/cmtt/m/it/10 func
+ []
+
+
+Overfull \hbox (10.49991pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 (c
+ []
+
+
+Overfull \hbox (57.7495pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 WebSockApp)
+ []
+
+
+Overfull \hbox (68.2494pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 WSHandler(usr
+ []
+
+
+Overfull \hbox (36.74968pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 string,
+ []
+
+
+Overfull \hbox (10.49991pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 ws
+ []
+
+
+Overfull \hbox (83.99927pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 *websocket.Conn)
+ []
+
+
+Overfull \hbox (62.99945pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 revel.Result
+ []
+
+
+Overfull \hbox (26.24977pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 defer
+ []
+
+
+Overfull \hbox (52.49954pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 ws.Close()
+ []
+
+
+Overfull \hbox (157.49863pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 revel.INFO.Printf("newmessages
+ []
+
+
+Overfull \hbox (10.49991pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 :=
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 make(chan
+ []
+
+
+Overfull \hbox (36.74968pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 string)
+ []
+
+
+Overfull \hbox (20.99982pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 quit
+ []
+
+
+Overfull \hbox (10.49991pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 :=
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 make(chan
+ []
+
+
+Overfull \hbox (36.74968pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 struct)
+ []
+
+
+Overfull \hbox (10.49991pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 go
+ []
+
+
+Overfull \hbox (131.24886pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 streamcam.StreamVideo(ws,
+ []
+
+
+Overfull \hbox (26.24977pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 quit,
+ []
+
+
+Overfull \hbox (89.24922pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 app.GetCapture())
+ []
+
+
+Overfull \hbox (10.49991pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 go
+ []
+
+
+Overfull \hbox (31.49973pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 func()
+ []
+
+
+Overfull \hbox (15.74986pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 var
+ []
+
+
+Overfull \hbox (15.74986pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 msg
+ []
+
+
+Overfull \hbox (31.49973pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 string
+ []
+
+
+Overfull \hbox (15.74986pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 for
+ []
+
+
+Overfull \hbox (15.74986pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 err
+ []
+
+
+Overfull \hbox (10.49991pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 :=
+ []
+
+
+Overfull \hbox (152.24867pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 websocket.Message.Receive(ws,
+ []
+
+
+Overfull \hbox (20.99982pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 msg)
+ []
+
+
+Overfull \hbox (10.49991pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 if
+ []
+
+
+Overfull \hbox (15.74986pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 err
+ []
+
+
+Overfull \hbox (10.49991pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 !=
+ []
+
+
+Overfull \hbox (15.74986pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 nil
+ []
+
+
+Overfull \hbox (94.49918pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 close(newmessages)
+ []
+
+
+Overfull \hbox (31.49973pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 return
+ []
+
+
+Overfull \hbox (57.7495pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 newmessages
+ []
+
+
+Overfull \hbox (10.49991pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 <-
+ []
+
+
+Overfull \hbox (15.74986pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 msg
+ []
+
+
+Overfull \hbox (10.49991pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 ()
+ []
+
+
+Overfull \hbox (15.74986pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 for
+ []
+
+
+Overfull \hbox (31.49973pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 select
+ []
+
+
+Overfull \hbox (20.99982pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 case
+ []
+
+
+Overfull \hbox (15.74986pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 msg
+ []
+
+
+Overfull \hbox (10.49991pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 :=
+ []
+
+
+Overfull \hbox (73.49936pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 <-newmessages:
+ []
+
+
+Overfull \hbox (10.49991pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 if
+ []
+
+
+Overfull \hbox (15.74986pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 msg
+ []
+
+
+Overfull \hbox (10.49991pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 ==
+ []
+
+
+Overfull \hbox (10.49991pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 ""
+ []
+
+
+Overfull \hbox (57.7495pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 close(quit)
+ []
+
+
+Overfull \hbox (131.24886pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 revel.INFO.Printf("return
+ []
+
+
+Overfull \hbox (15.74986pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 nil
+ []
+
+
+Overfull \hbox (110.24904pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 revel.INFO.Printf("WS
+ []
+
+
+Overfull \hbox (36.74968pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 message
+ []
+
+
+Overfull \hbox (5.24995pt too wide) in paragraph at lines 60--91
+\OT1/cmtt/m/it/10 '
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 
+     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1
+! Undefined control sequence.
+<write> \newlabel{app:a}{{}{\thepage 
+                                     }}
+l.91 
+     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{app:a}{{}{}}
+{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+! LaTeX Error: \begin{document} ended by \end{lstlisting}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.92 \end{lstlisting}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> app-a.tex
+             
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 14 strings out of 493117
+ 209 string characters out of 6135433
+ 55909 words of memory out of 5000000
+ 3573 multiletter control sequences out of 15000+600000
+ 3976 words of font info for 16 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 18i,4n,14p,118b,132s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

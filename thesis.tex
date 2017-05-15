@@ -17,6 +17,7 @@ a4paper, mag=1000,
 left=3cm, right=2cm, top=2cm, bottom=2cm, headsep=0.7cm, footskip=1cm
 ]{geometry}
 
+
 \usepackage[T2A]{fontenc}
 \usepackage[cp1251]{inputenc}
 \usepackage[english,russian]{babel}
@@ -78,6 +79,8 @@ left=3cm, right=2cm, top=2cm, bottom=2cm, headsep=0.7cm, footskip=1cm
 \begin{document}
 % Переопределение стандартных заголовков
 \def\contentsname{\textsc{Содержание}}
+\def\appendixname{\textsc{Приложение}}
+\def\tocpretheappendix{\textsc{\protect\appendixname~}}
 %\def\conclusionname{Выводы}
 \def\bibname{\textsc{Список используемых источников}}
 \renewcommand{\lstlistingname}{Листинг}
@@ -174,6 +177,10 @@ left=3cm, right=2cm, top=2cm, bottom=2cm, headsep=0.7cm, footskip=1cm
 \bibliographystyle{gost705}
 %Приложения
 \appendix
-%\input{app-a}
+\input{app-a}
+\input{app-b}
+\input{app-c}
+\input{app-d}
+\input{app-e}
 
 \end{document}
