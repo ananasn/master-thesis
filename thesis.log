@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.1.28)  16 MAY 2017 02:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.1.28)  16 MAY 2017 18:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -981,13 +981,6 @@ Package pdftex.def Info: fig/seq-eps-converted-to.pdf used on input line 65.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-Package caption Warning: \label without proper \caption on input line 14.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `tabodroid' on page 48 undefined on input line 71.
-
 [48 <./fig/hs-eps-converted-to.pdf>]
 Underfull \hbox (badness 10000) detected at line 76
 []
@@ -995,13 +988,6 @@ Underfull \hbox (badness 10000) detected at line 76
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Package caption Warning: \label without proper \caption on input line 14.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `tabodroid' on page 49 undefined on input line 104.
 
 
 Underfull \hbox (badness 10000) detected at line 109
@@ -1227,9 +1213,6 @@ Package rerunfilecheck Info: File `thesis.out' has not changed.
 (rerunfilecheck)             Checksum: 61F5FF7CDCA3C219884853A19DC4F76B;14094.
 
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: There were multiply-defined labels.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 186.
@@ -1237,7 +1220,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 186.
 Here is how much of TeX's memory you used:
  17524 strings out of 493117
  255621 string characters out of 6135433
- 388058 words of memory out of 5000000
+ 387946 words of memory out of 5000000
  20001 multiletter control sequences out of 15000+600000
  48922 words of font info for 236 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1309,7 +1292,7 @@ mf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/local/texlive/2014/texmf
 -dist/fonts/type1/public/cm-super/sftt1440.pfb></usr/local/texlive/2014/texmf-d
 ist/fonts/type1/public/cm-super/sfxc1440.pfb></usr/local/texlive/2014/texmf-dis
 t/fonts/type1/public/cm-super/sfxc2074.pfb>
-Output written on thesis.pdf (64 pages, 16725134 bytes).
+Output written on thesis.pdf (64 pages, 16725021 bytes).
 PDF statistics:
  1040 PDF objects out of 1200 (max. 8388607)
  889 compressed objects within 9 object streams
