@@ -16,7 +16,7 @@ Warning--empty booktitle in structappr
 Warning--empty booktitle in unqlite
 You've used 27 entries,
             3568 wiz_defined-function locations,
-            1177 strings with 13159 characters,
+            1177 strings with 13168 characters,
 and the built_in function-call counts, 6997 in all, are:
 = -- 877
 > -- 117

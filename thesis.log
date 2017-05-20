@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.1.28)  16 MAY 2017 18:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.1.28)  21 MAY 2017 01:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -505,22 +505,13 @@ Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
 )
 (./thesis.aux
 
-LaTeX Warning: Label `tab' multiply defined.
-
-
 LaTeX Warning: Label `fig:gcodepic' multiply defined.
 
 
 LaTeX Warning: Label `app:c' multiply defined.
 
 
-LaTeX Warning: Label `tab' multiply defined.
-
-
-LaTeX Warning: Label `tabodroid' multiply defined.
-
-
-LaTeX Warning: Label `fig:odr' multiply defined.
+LaTeX Warning: Label `tabappendix' multiply defined.
 
 
 LaTeX Warning: Label `fig:odr' multiply defined.
@@ -688,14 +679,7 @@ Overfull \hbox (2.89182pt too wide) in paragraph at lines 29--31
 а^^?фи^^?че^^?ского интер^^?фейса системы
  []
 
-[11]
-Overfull \hbox (14.01334pt too wide) in paragraph at lines 40--41
-[]\T2A/cmr/m/it/14.4/-32ls (-20) —труктура маги^^?стер^^?ской дис^^?сер^^?та^^?
-ции. \T2A/cmr/m/n/14.4/-32ls (-20) ћаги^^?стер^^?ска€ дис^^?сер^^?та^^?ци€ сост
-оит
- []
-
-) (./1.tex [12]
+[11]) (./1.tex [12]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\\' on input line 2.
@@ -724,13 +708,8 @@ Overfull \hbox (5.40755pt too wide) in paragraph at lines 23--24
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\textls' on input line 39.
 
-[17] [18]
-Overfull \hbox (10.20741pt too wide) in paragraph at lines 56--57
-[]\T2A/cmr/m/n/14.4 (-20) ѕроведенные иссле^^?до^^?ва^^?ни€ пока^^?зали, что пр
-ед^^?мет^^?на€ область активно
- []
-
-[19]) (./2.tex [20] <fig/019_FANUC-0iTD.jpg, id=313, 1445.4pt x 867.24pt>
+[17] [18] [19]) (./2.tex [20]
+<fig/019_FANUC-0iTD.jpg, id=313, 1445.4pt x 867.24pt>
 File: fig/019_FANUC-0iTD.jpg Graphic file (type jpg)
 
 <use fig/019_FANUC-0iTD.jpg>
@@ -944,11 +923,11 @@ Overfull \hbox (2.16585pt too wide) in paragraph at lines 49--50
 
 [47 <./fig/server.png>]
 Package epstopdf Info: Source file: <fig/hs.eps>
-(epstopdf)                    date: 2017-05-08 22:35:51
-(epstopdf)                    size: 104349 bytes
+(epstopdf)                    date: 2017-05-20 00:07:36
+(epstopdf)                    size: 105474 bytes
 (epstopdf)             Output file: <fig/hs-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-05-08 22:36:11
-(epstopdf)                    size: 26019 bytes
+(epstopdf)                    date: 2017-05-20 00:10:35
+(epstopdf)                    size: 26639 bytes
 (epstopdf)             Command: <repstopdf --outfile=fig/hs-eps-converted-to.pd
 f fig/hs.eps>
 (epstopdf)             \includegraphics on input line 57.
@@ -961,11 +940,11 @@ File: fig/hs-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: fig/hs-eps-converted-to.pdf used on input line 57.
 (pdftex.def)             Requested size: 364.19667pt x 311.74341pt.
 Package epstopdf Info: Source file: <fig/seq.eps>
-(epstopdf)                    date: 2017-05-14 19:26:29
-(epstopdf)                    size: 119542 bytes
+(epstopdf)                    date: 2017-05-20 00:12:57
+(epstopdf)                    size: 117874 bytes
 (epstopdf)             Output file: <fig/seq-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-05-14 19:26:29
-(epstopdf)                    size: 29399 bytes
+(epstopdf)                    date: 2017-05-20 00:13:13
+(epstopdf)                    size: 29243 bytes
 (epstopdf)             Command: <repstopdf --outfile=fig/seq-eps-converted-to.p
 df fig/seq.eps>
 (epstopdf)             \includegraphics on input line 65.
@@ -997,15 +976,10 @@ Underfull \hbox (badness 10000) detected at line 109
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[49 <./fig/seq-eps-converted-to.pdf>] [50]) (./concl.tex [51]
-Overfull \hbox (2.51886pt too wide) in paragraph at lines 13--14
-[]\T2A/cmr/m/n/14.4 (-20) Ѕыло обос^^?но^^?вано при^^?ме^^?не^^?ние струк^^?тур
-но-^^?модуль^^?ного под^^?хода с помо^^?
- []
+[49 <./fig/seq-eps-converted-to.pdf>] [50]) (./concl.tex [51] [52
 
-[52
-
-]) [53] (./thesis.lof)
+]) [53]
+(./thesis.lof)
 \tf@lof=\write5
 \openout5 = `thesis.lof'.
 
@@ -1024,40 +998,46 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--68
 
 [56
 
-]) (./thesis.bbl [57] [58
+]) (./thesis.bbl [57]
+Underfull \hbox (badness 1442) in paragraph at lines 64--68
+[]\T2A/cmr/m/n/14.4 (+20) IEC 61800-7-1:2015. Adjustable speed elec^^?tri^^?cal
+ power drive sys^^?
+ []
+
+[58
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 89--93
+Underfull \hbox (badness 10000) in paragraph at lines 90--94
 [][][]\T2A/cmr/m/n/14.4 (+20) Modicon Mod^^?bus Pro^^?to^^?col Ref^^?er^^?ence 
 Guide[][].  URL: [][]$\T2A/cmtt/m/n/14.4 http :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--93
+Underfull \hbox (badness 10000) in paragraph at lines 90--94
 \T2A/cmtt/m/n/14.4 / / www . schneider-[]electric . com / cn / en / download / 
 document /
  []
 
 [59]
-Underfull \hbox (badness 10000) in paragraph at lines 147--150
+Underfull \hbox (badness 10000) in paragraph at lines 148--151
 [][][]\T2A/cmr/m/n/14.4 (+20) Microservices. A def^^?i^^?ni^^?tion of this new 
 archi^^?tec^^?tural term.
  []
 
 
-Underfull \hbox (badness 1337) in paragraph at lines 170--173
+Underfull \hbox (badness 1337) in paragraph at lines 171--174
 [][][]\T2A/cmr/m/n/14.4 (+20) –азработка ѕќ. Ётапы разработки программного обес
 печени€.
  []
 
 
-Underfull \hbox (badness 1337) in paragraph at lines 177--180
+Underfull \hbox (badness 1337) in paragraph at lines 178--181
 \T2A/cmr/m/n/14.4 (+20) URL: [][]$\T2A/cmtt/m/n/14.4 http : / / citforum . ru /
  database / case / glava2 _ 1 . shtml$[][] \T2A/cmr/m/n/14.4 (+20) ([]да^^?та
  []
 
 
-Underfull \hbox (badness 1502) in paragraph at lines 183--187
+Underfull \hbox (badness 1502) in paragraph at lines 184--188
 \T2A/cmr/m/n/14.4 (+20) MA, USA: Addis^^?on-Wes^^?ley Long^^?man Pub^^?lish^^?i
 ng Co., Inc., 1993.
  []
@@ -1103,13 +1083,13 @@ File: fig/wrap.png Graphic file (type png)
 <use fig/wrap.png>
 Package pdftex.def Info: fig/wrap.png used on input line 6.
 (pdftex.def)             Requested size: 409.71692pt x 214.89748pt.
- <fig/axis.png, id=840, 542.025pt x 436.63126pt>
+ <fig/axis.png, id=839, 542.025pt x 436.63126pt>
 File: fig/axis.png Graphic file (type png)
 
 <use fig/axis.png>
 Package pdftex.def Info: fig/axis.png used on input line 13.
 (pdftex.def)             Requested size: 273.14923pt x 220.04066pt.
- <fig/infocoord.png, id=841, 469.755pt x 446.66875pt>
+ <fig/infocoord.png, id=840, 469.755pt x 446.66875pt>
 File: fig/infocoord.png Graphic file (type png)
 
 <use fig/infocoord.png>
@@ -1119,7 +1099,7 @@ Package pdftex.def Info: fig/infocoord.png used on input line 20.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<fig/gcode.png, id=842, 388.45125pt x 252.945pt>
+<fig/gcode.png, id=841, 388.45125pt x 252.945pt>
 File: fig/gcode.png Graphic file (type png)
  <use fig/gcode.png>
 Package pdftex.def Info: fig/gcode.png used on input line 27.
@@ -1128,7 +1108,7 @@ Package pdftex.def Info: fig/gcode.png used on input line 27.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<fig/stream.png, id=843, 487.8225pt x 388.45125pt>
+<fig/stream.png, id=842, 487.8225pt x 388.45125pt>
 File: fig/stream.png Graphic file (type png)
  <use fig/stream.png>
 Package pdftex.def Info: fig/stream.png used on input line 34.
@@ -1137,7 +1117,7 @@ Package pdftex.def Info: fig/stream.png used on input line 34.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<fig/term.png, id=844, 874.26625pt x 554.07pt>
+<fig/term.png, id=843, 874.26625pt x 554.07pt>
 File: fig/term.png Graphic file (type png)
  <use fig/term.png>
 Package pdftex.def Info: fig/term.png used on input line 41.
@@ -1165,7 +1145,7 @@ Package epstopdf Info: Source file: <fig/blockodr.eps>
 -to.pdf fig/blockodr.eps>
 (epstopdf)             \includegraphics on input line 6.
 Package epstopdf Info: Output file is already uptodate.
-<fig/blockodr-eps-converted-to.pdf, id=869, 427.5975pt x 232.87pt>
+<fig/blockodr-eps-converted-to.pdf, id=868, 427.5975pt x 232.87pt>
 File: fig/blockodr-eps-converted-to.pdf Graphic file (type pdf)
 
 <use fig/blockodr-eps-converted-to.pdf>
@@ -1201,28 +1181,28 @@ Package pdftex.def Info: fig/platform.png used on input line 12.
 Package caption Warning: Unused \captionsetup[sub] on input line 42.
 See the caption package documentation for explanation.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 186.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 187.
 [70
 
  <./fig/table-r.png> <./fig/platform.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 186.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 187.
  (./thesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 186.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 186.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 187.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 187.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
 (rerunfilecheck)             Checksum: 61F5FF7CDCA3C219884853A19DC4F76B;14094.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 186.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 187.
  ) 
 Here is how much of TeX's memory you used:
- 17524 strings out of 493117
- 255621 string characters out of 6135433
- 387946 words of memory out of 5000000
- 20001 multiletter control sequences out of 15000+600000
- 48922 words of font info for 236 fonts, out of 8000000 for 9000
+ 17558 strings out of 493117
+ 256115 string characters out of 6135433
+ 388164 words of memory out of 5000000
+ 20006 multiletter control sequences out of 15000+600000
+ 51846 words of font info for 255 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  43i,9n,51p,1454b,2194s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{Hfootnote.16} has been referenced but does not ex
@@ -1292,10 +1272,10 @@ mf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/local/texlive/2014/texmf
 -dist/fonts/type1/public/cm-super/sftt1440.pfb></usr/local/texlive/2014/texmf-d
 ist/fonts/type1/public/cm-super/sfxc1440.pfb></usr/local/texlive/2014/texmf-dis
 t/fonts/type1/public/cm-super/sfxc2074.pfb>
-Output written on thesis.pdf (64 pages, 16725021 bytes).
+Output written on thesis.pdf (64 pages, 16726497 bytes).
 PDF statistics:
  1040 PDF objects out of 1200 (max. 8388607)
  889 compressed objects within 9 object streams
  340 named destinations out of 1000 (max. 500000)
- 52086 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 56182 words of extra memory for PDF output out of 61914 (max. 10000000)
 
